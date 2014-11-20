@@ -11,6 +11,11 @@ left: -39px;
 bottom: -4px;
 }
 
+#hot_products_div {
+position: absolute;
+left: 241px;
+top: 628px;
+}
 
 /*.product-list-frame {
 width: 1008px;
